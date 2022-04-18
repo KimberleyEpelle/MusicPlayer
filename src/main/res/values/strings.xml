@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MusicPlayer</string>
+    <string name="_00_00">00:00</string>
+
+    <string name="music_player">Music Player</string>
+    <string name="my_music">my_music</string>
+</resources>
