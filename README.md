@@ -35,7 +35,4 @@ The app synchronizes songs stored in Firebase with tracks available on the devic
 ---
 
 
-## 🧾 Author
-**Kimberley Epelle**   
-[LinkedIn](https://linkedin.com/in/kimberley-epelle)
 
